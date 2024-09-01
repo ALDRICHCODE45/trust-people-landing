@@ -6,7 +6,7 @@ import { twMerge } from "tailwind-merge";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Trus People Solutions | Home",
+  title: "Trust People Solutions | Home",
   description: "A landing page for a recruitment company created with Next.JS",
 };
 
