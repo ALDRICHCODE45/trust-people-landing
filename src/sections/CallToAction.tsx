@@ -27,7 +27,7 @@ export const CallToAction = () => {
                 Achive clear, impactful results without the complexity.
               </p>
               <div className="flex justify-center  mt-5">
-                <Button title="Join waitlist" />
+                <Button title="Únete" />
               </div>
             </div>
           </div>

@@ -39,7 +39,7 @@ export const Hero = () => {
             your organization.
           </p>
           <div className="flex justify-center mt-5">
-            <Button title="Join waitlist" />
+            <Button title="Únete" />
           </div>
         </div>
       </section>
